@@ -1,12 +1,12 @@
-title:              Blog
+title:              OneInterWeb's GitHub Blog
 tagline:            on GitHub Pages
-description:        Content-focused template for a blog hosted on GitHub Pages.
-url:                http://YourName.github.io
+description:        Tech tips & hacks for the common 21st century man
+url:                http://oneinterweb.github.io
 
 author:
-  name:             Your Name
-  url:              https://twitter.com/YourName
-  email:            YourName@gmail.com
+  name:             George
+  url:              https://twitter.com/oneinterweb
+  email:            info at oneinterweb dot com
 
 # GitHub Pages / Jekyll configuration
 baseurl:            ''
